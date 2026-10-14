@@ -1,0 +1,22 @@
+{
+    "title": "Le labo musical de Nico",
+    "description": "Le nouveau format, scientifique et musical, de Nicolas Lafitte pour les oreilles de 7 à 107 ans. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France",
+    "publisher": "Radio France",
+    "category": "Documentaire Musique",
+    "link": "https://www.radiofrance.fr/francemusique/podcasts/le-labo-musical-de-nico",
+    "rssFeed": "https://radiofrance-podcast.net/podcast09/rss_25115.xml",
+    "image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2026/05/7f5561f8-2b91-4c0b-bbd7-0f76a67315aa/1400x1400_sc_fm-labodenico-3000x3000.jpg?1790917115519",
+    "ads": false,
+    "averageRating": 4,
+    "recommendedAge": 7,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 4,
+            "comment": "Woaw",
+            "authorName": null,
+            "minAge": 7,
+            "createdAt": "2026-10-12T11:36:41+02:00"
+        }
+    ]
+}
