@@ -1,0 +1,22 @@
+{
+    "title": "Bestioles",
+    "description": "Les aventures du monde animal ! Un podcast pour les 5-7 ans.   \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur Radio France",
+    "publisher": "Radio France",
+    "category": "Documentaire Animalier",
+    "link": "https://www.radiofrance.fr/franceinter/podcasts/bestioles",
+    "rssFeed": "https://radiofrance-podcast.net/podcast09/rss_22046.xml",
+    "image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/12/c7b61f65-164a-4ec8-b0dd-74a887acf3bc/1400x1400_sc_carre-bestioles-novembre.jpg?1790850684805",
+    "ads": false,
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Génial !",
+            "authorName": null,
+            "minAge": 5,
+            "createdAt": "2026-10-12T10:39:30+02:00"
+        }
+    ]
+}
