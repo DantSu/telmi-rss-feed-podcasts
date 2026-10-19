@@ -7,8 +7,30 @@
     "rssFeed": "https://feeds.audiomeans.fr/feed/2634f188-47a0-48e1-b4ae-0ac360ed3ac3.xml",
     "image": "https://static.audiomeans.fr/img/podcast/4ab56215-8a76-4423-aaea-b29e05259aa1.jpg",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 3,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Excellentes histoires, mais plutôt à partir de 5 ans",
+            "authorName": "Marco",
+            "minAge": 5,
+            "createdAt": "2026-10-17T14:36:00+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": "fan des histoires entre 3 et 5 ans",
+            "authorName": "Ben",
+            "minAge": 3,
+            "createdAt": "2026-10-16T19:14:21+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "Madjax",
+            "minAge": 3,
+            "createdAt": "2026-10-16T17:03:00+02:00"
+        }
+    ]
 }

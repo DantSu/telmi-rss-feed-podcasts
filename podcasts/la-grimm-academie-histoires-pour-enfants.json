@@ -7,8 +7,37 @@
     "rssFeed": "https://feeds.360.audion.fm/E3sJ6hSzp9GMagrWSuDZR",
     "image": "https://artworks.360.audion.fm/32d40362-5e3b-4b33-85b5-746388420882.jpg?width=3000&height=3000",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 4,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Mes deux enfants (maintenant 9 et 12 ans) l'écoute depuis bien 2 ou 3 ans et ils l'adore toujours autant. Un grand merci à vous. Je recommande.",
+            "authorName": "Didi",
+            "minAge": 5,
+            "createdAt": "2026-10-17T21:28:19+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": "Excellent podcast, j'ai acheté les deux dernières saisons pour encourager le créateur. De nombreuses références et jeux de mot que notre fils est ravi de partager avec nous (et surtout, Perococo <3)\r\nJ'ai mis 5ans, mais c'est selon votre enfant, sinon 6ans",
+            "authorName": "Tom",
+            "minAge": 5,
+            "createdAt": "2026-10-17T17:58:40+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": "du pure plaisir à ecouter meme pour les parents",
+            "authorName": "Ben",
+            "minAge": 5,
+            "createdAt": "2026-10-16T19:15:08+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "DizHell",
+            "minAge": 7,
+            "createdAt": "2026-10-16T16:48:30+02:00"
+        }
+    ]
 }

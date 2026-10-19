@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.acast.com/public/shows/pierrot-et-poupouche",
     "image": "https://assets.pippa.io/shows/6915fcb37a0043834aea013c/1786179085424-66eec8f5-f685-4223-b5a9-4939300759f3.jpeg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Mes enfants de 3 et 6 écoutent en boucle. Des histoires de la vie quotidienne avec un frère et une sœur.",
+            "authorName": "Goatzzzz",
+            "minAge": 3,
+            "createdAt": "2026-10-17T16:20:56+02:00"
+        }
+    ]
 }

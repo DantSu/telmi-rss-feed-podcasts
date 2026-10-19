@@ -7,8 +7,23 @@
     "rssFeed": "https://access.acast.com/rss/670d1795df4dd6f896655670/",
     "image": "https://assets.pippa.io/shows/670d1795df4dd6f896655670/show-cover.jpeg",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 2,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Très bonne qualité. Ici il y a des histoires adaptées à partir de environ 4 ans",
+            "authorName": "Marco",
+            "minAge": 3,
+            "createdAt": "2026-10-17T14:37:32+02:00"
+        },
+        {
+            "stars": 5,
+            "comment": "il y a de tres bonnes histoires",
+            "authorName": "Ben",
+            "minAge": 5,
+            "createdAt": "2026-10-16T19:16:09+02:00"
+        }
+    ]
 }

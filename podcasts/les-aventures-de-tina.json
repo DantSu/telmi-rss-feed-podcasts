@@ -7,8 +7,16 @@
     "rssFeed": "https://radiofrance-podcast.net/podcast09/rss_25406.xml",
     "image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/10/b9d34cde-f3ff-4920-ab64-b0ec284613cd/1400x1400_sc_carre-les-aventures-de-tina-generique.jpg?1790898875809",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Ecouté et ré-écouté.",
+            "authorName": "Lezardiere",
+            "minAge": 5,
+            "createdAt": "2026-10-17T17:06:59+02:00"
+        }
+    ]
 }

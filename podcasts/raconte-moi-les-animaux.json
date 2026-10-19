@@ -7,8 +7,16 @@
     "rssFeed": "https://feed.ausha.co/ye3Qmiv4173W",
     "image": "https://image.ausha.co/xRBEM44wOwHv67TW7yioMFOf7Wxg0oMqFc3r3KAE_1400x1400.jpeg?t=1674223988",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "des petites histoires qui parlent de plein d'animaux différents. tres instructif",
+            "authorName": "Ben",
+            "minAge": 3,
+            "createdAt": "2026-10-16T19:17:46+02:00"
+        }
+    ]
 }

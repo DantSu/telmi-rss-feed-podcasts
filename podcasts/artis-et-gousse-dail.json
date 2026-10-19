@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.360.audion.fm/Ukwy1OSs4461Ih4IAeyTu",
     "image": "https://artworks.360.audion.fm/315011a3-b6ba-4af6-be98-af8bf7aa8c81.jpg?width=3000&height=3000",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 7,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Âge recommandé de plutôt 6ans.\r\nTrès très bon podcast, la dynamique en Artis et le petit Gousse d'ail est excellente.\r\nMon fils adore réécouter tous les épisodes (même si ça continue de sortir au fil de l'eau a 1 épisode semaine)",
+            "authorName": "Tom",
+            "minAge": 7,
+            "createdAt": "2026-10-17T18:00:31+02:00"
+        }
+    ]
 }

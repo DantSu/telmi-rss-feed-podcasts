@@ -7,8 +7,16 @@
     "rssFeed": "https://feed.ausha.co/dlZKrIGn5LAK",
     "image": "https://image.ausha.co/Tw8IuQFzhvM7SBYpehBvBIo7mUqIfs0RR7Fhvkta_1400x1400.jpeg?t=1742483448",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Excellent podcast sur les histoires de la Bible. Très dynamique et prenant. Bien adapté pour les enfants.",
+            "authorName": "André",
+            "minAge": 5,
+            "createdAt": "2026-10-17T10:28:56+02:00"
+        }
+    ]
 }
