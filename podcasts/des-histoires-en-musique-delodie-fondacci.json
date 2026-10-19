@@ -7,8 +7,16 @@
     "rssFeed": "https://feed.ausha.co/brvl6HgdLxW8",
     "image": "https://static.audiomeans.fr/img/podcast/651edd1a-37a4-46d1-905a-5d5610af6002.jpg",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Tout le monde adore",
+            "authorName": "Samotsirk",
+            "minAge": 3,
+            "createdAt": "2026-10-19T16:56:44+02:00"
+        }
+    ]
 }

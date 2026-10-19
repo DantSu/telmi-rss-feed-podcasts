@@ -8,9 +8,16 @@
     "image": "https://static.audiomeans.fr/img/podcast/4ab56215-8a76-4423-aaea-b29e05259aa1.jpg",
     "ads": true,
     "averageRating": 5,
-    "recommendedAge": 3,
-    "reviewsCount": 3,
+    "recommendedAge": 5,
+    "reviewsCount": 4,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Ma fille de 7 ans les adore",
+            "authorName": "Samotsirk",
+            "minAge": 5,
+            "createdAt": "2026-10-19T16:52:34+02:00"
+        },
         {
             "stars": 5,
             "comment": "Excellentes histoires, mais plutôt à partir de 5 ans",
