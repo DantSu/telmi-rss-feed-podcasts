@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 5,
-    "reviewsCount": 1,
+    "reviewsCount": 2,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "C'est un des podcasts préférés, elles attendent les nouvelles saisons avec impatience !",
+            "authorName": "DantSu",
+            "minAge": 5,
+            "createdAt": "2026-10-20T11:49:44+02:00"
+        },
         {
             "stars": 5,
             "comment": "Mes deux enfants (maintenant 9 et 12 ans) l'écoute depuis quelques année et réclame toujours la nouvelle saison. Ils l'adore toujours autant. Un grand merci à vous. Je recommande.",

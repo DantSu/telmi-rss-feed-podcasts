@@ -7,8 +7,16 @@
     "rssFeed": "https://feed.ausha.co/XqXrAFK9jWJ7",
     "image": "https://image.ausha.co/ilwGazzkePayMHj3h1md6RUVEWaMvfpSXqg9SasZ_1400x1400.jpeg?t=1724277491",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "C'est dommage que maintenant ils aient ajouté des publicités :(\r\nMes filles aiment beaucoup ce podcast.",
+            "authorName": "DantSu",
+            "minAge": 5,
+            "createdAt": "2026-10-20T11:51:37+02:00"
+        }
+    ]
 }

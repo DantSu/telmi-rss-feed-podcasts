@@ -7,8 +7,16 @@
     "rssFeed": "https://anchor.fm/s/8d2fa1ec/podcast/rss",
     "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/23587091/23587091-1649185535278-5368c350c3839.jpg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 5,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "De très beaux comptes super bien racontés en musique ! Mes filles apprécient beaucoup !",
+            "authorName": "DantSu",
+            "minAge": 5,
+            "createdAt": "2026-10-20T11:53:39+02:00"
+        }
+    ]
 }

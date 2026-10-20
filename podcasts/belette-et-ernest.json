@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.acast.com/public/shows/belette-et-ernest",
     "image": "https://assets.pippa.io/shows/cover/1725530101221-9fcdd229-0562-48a3-a83e-467441d47b5e.jpeg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Un super podcast pour les petits comme les grands :)",
+            "authorName": "DantSu",
+            "minAge": 3,
+            "createdAt": "2026-10-20T11:48:19+02:00"
+        }
+    ]
 }
