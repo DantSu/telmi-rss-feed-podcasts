@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.acast.com/public/shows/club-citrouillade",
     "image": "https://assets.pippa.io/shows/62b59c55442a810014be5b51/1657469128536-c259919f1c63b0f7b155f3b95d92388b.jpeg",
     "ads": true,
-    "averageRating": null,
+    "averageRating": 5,
     "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "Kévin Re",
+            "minAge": null,
+            "createdAt": "2026-10-20T08:24:56+02:00"
+        }
+    ]
 }
