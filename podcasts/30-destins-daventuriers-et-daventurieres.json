@@ -13,7 +13,7 @@
     "reviews": [
         {
             "stars": 5,
-            "comment": "Un bon podcast d'histoires vraies qui apprennent des choses intéressantes sur notre histoire. Je recommande :)\r\nPS : Il y a pas mal de pub.",
+            "comment": "Un bon podcast d'histoires vraies qui apprennent des choses intéressantes sur notre histoire. Je recommande :)",
             "authorName": "DantSu",
             "minAge": 5,
             "createdAt": "2026-10-16T16:26:14+02:00"
