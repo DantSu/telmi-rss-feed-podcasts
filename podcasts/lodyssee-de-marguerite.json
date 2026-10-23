@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 5,
-    "reviewsCount": 1,
+    "reviewsCount": 2,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Très bonnes histoires en lien avec la mythologie. Mon fils (9 ans) adore et attend la suite des épisodes à chaque fois.",
+            "authorName": "Zebibi",
+            "minAge": 5,
+            "createdAt": "2026-10-23T12:55:52+02:00"
+        },
         {
             "stars": 5,
             "comment": "C'est dommage que maintenant ils aient ajouté des publicités :(\r\nMes filles aiment beaucoup ce podcast.",
