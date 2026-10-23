@@ -7,8 +7,16 @@
     "rssFeed": "https://www.arteradio.com/xml_sound_serie?seriename=la-reine-des-pirates",
     "image": "https://cdn.arteradio.com/permanent/arteradio/sites/default/files/baby-bonny-corner.jpg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 7,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Encore un podcast que ma fille adore, et qu'elle écoute en boucle :)\r\n\r\nIl raconte de manière à la fois ludique et instructive la vie de pirate d'Anne Bonny.",
+            "authorName": "m.iko",
+            "minAge": 7,
+            "createdAt": "2026-10-23T17:05:23+02:00"
+        }
+    ]
 }
