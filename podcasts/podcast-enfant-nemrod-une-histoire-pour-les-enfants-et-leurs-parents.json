@@ -7,8 +7,16 @@
     "rssFeed": "https://anchor.fm/s/37254c84/podcast/rss",
     "image": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9151913/9151913-1677783084847-7a68ff8058901.jpg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 7,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Une histoire passionnante la suite est payante mais on peut l'importer dans la Telli via un flux rss privé une fois que l'on s'est abonné. Attention on y aborde la mort, la perte du foyer, la dépendance aux drogues. Certaines scènes montrent de la cruauté. Mais c'est vraiment bien abordé on peut en profiter pour en discuter avec son enfant. L'ambiance sonore et la voix de la conteuse est captivante.",
+            "authorName": "Magicien31",
+            "minAge": 7,
+            "createdAt": "2026-10-24T17:27:47+02:00"
+        }
+    ]
 }

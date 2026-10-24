@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 5,
-    "reviewsCount": 4,
+    "reviewsCount": 5,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Mon fils adore ces histoires elles sont très qualitatives.",
+            "authorName": "Magicien31",
+            "minAge": 5,
+            "createdAt": "2026-10-24T17:29:06+02:00"
+        },
         {
             "stars": 5,
             "comment": "Ma fille de 7 ans les adore",

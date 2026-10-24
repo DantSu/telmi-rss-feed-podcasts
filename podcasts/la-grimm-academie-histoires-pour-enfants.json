@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 5,
-    "reviewsCount": 4,
+    "reviewsCount": 5,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Mon fils adore l'univers et même pour les adultes les jeux de mots sont délicieux.",
+            "authorName": "Magicien31",
+            "minAge": 5,
+            "createdAt": "2026-10-24T17:31:19+02:00"
+        },
         {
             "stars": 5,
             "comment": "Mes deux enfants (maintenant 9 et 12 ans) l'écoute depuis bien 2 ou 3 ans et ils l'adore toujours autant. Un grand merci à vous. Je recommande.",

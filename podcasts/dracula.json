@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.audiomeans.fr/feed/2e169119-465b-4d7f-a3f5-c6393ed6c3bd.xml",
     "image": "https://static.audiomeans.fr/img/podcast/9ec06d13-7513-48b2-aa4c-27a6ed86a228.jpg",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 10,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Attention c'est la vraie histoire de Dracula ce n'est pas pour les plus petits. Par contre l'ambiance, la réalisation et l'interprétation c'est une masterpiece.",
+            "authorName": "Magicien31",
+            "minAge": 10,
+            "createdAt": "2026-10-24T17:33:24+02:00"
+        }
+    ]
 }
