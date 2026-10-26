@@ -8,9 +8,16 @@
     "image": "https://assets.pippa.io/shows/62b59c55442a810014be5b51/1657469128536-c259919f1c63b0f7b155f3b95d92388b.jpeg",
     "ads": true,
     "averageRating": 5,
-    "recommendedAge": null,
-    "reviewsCount": 1,
+    "recommendedAge": 5,
+    "reviewsCount": 2,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Le podcast préféré de ma fille depuis un moment déja !",
+            "authorName": "Encko",
+            "minAge": 5,
+            "createdAt": "2026-10-26T08:41:11+01:00"
+        },
         {
             "stars": 5,
             "comment": null,
