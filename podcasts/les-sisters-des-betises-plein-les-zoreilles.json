@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.audiomeans.fr/feed/a31a9852-736e-44f9-a565-9ed51b007b41.xml",
     "image": "https://static.audiomeans.fr/img/podcast/0d526a4d-ebfc-4766-9d10-d7cb03ddf4e6.jpg",
     "ads": false,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 7,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": "Grosse fan des Sisters à la maison ! Ce podcast a été écouté et réécouter en boucle.\r\nJ'ai mis 7+... mais j'ai hésité avec 5+.",
+            "authorName": "DantSu",
+            "minAge": 7,
+            "createdAt": "2026-10-27T09:22:00+01:00"
+        }
+    ]
 }

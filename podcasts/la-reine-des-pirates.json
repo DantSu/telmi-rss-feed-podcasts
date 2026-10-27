@@ -9,8 +9,15 @@
     "ads": false,
     "averageRating": 5,
     "recommendedAge": 7,
-    "reviewsCount": 1,
+    "reviewsCount": 2,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": "Celui là c'est mon coup de coeur à moi. ^^ Je l'ai écouté, j'ai trop aimé. Mon ainée l'a trouvé triste sur la fin, c'est une histoire vraie et historique, tout n'est pas tout rose.",
+            "authorName": "DantSu",
+            "minAge": 7,
+            "createdAt": "2026-10-27T09:25:26+01:00"
+        },
         {
             "stars": 5,
             "comment": "Encore un podcast que ma fille adore, et qu'elle écoute en boucle :)\r\n\r\nIl raconte de manière à la fois ludique et instructive la vie de pirate d'Anne Bonny.",
