@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 5,
-    "reviewsCount": 5,
+    "reviewsCount": 6,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "Kendael",
+            "minAge": 7,
+            "createdAt": "2026-10-28T23:49:48+01:00"
+        },
         {
             "stars": 5,
             "comment": "Mon fils adore l'univers et même pour les adultes les jeux de mots sont délicieux.",

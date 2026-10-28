@@ -7,10 +7,17 @@
     "rssFeed": "https://feeds.360.audion.fm/leZ_H2YSY_PSThl3IR7-O",
     "image": "https://artworks.360.audion.fm/097ec370-1709-4ae3-a1ac-05fdbed6b98e.webp?width=3000&height=3000",
     "ads": true,
-    "averageRating": 4.7,
+    "averageRating": 4.5,
     "recommendedAge": 5,
-    "reviewsCount": 3,
+    "reviewsCount": 4,
     "reviews": [
+        {
+            "stars": 4,
+            "comment": null,
+            "authorName": "Kendael",
+            "minAge": 7,
+            "createdAt": "2026-10-28T23:50:32+01:00"
+        },
         {
             "stars": 4,
             "comment": "Je pense qu'on ne peut pas faire meilleur contenu pour un podcast enfant. Le gros défaut, pour moi, c'est l'intro et l'outro, qui sont trop longues à cause de l'autopromotion et des résumés.",

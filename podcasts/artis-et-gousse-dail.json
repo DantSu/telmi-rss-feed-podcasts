@@ -9,8 +9,15 @@
     "ads": true,
     "averageRating": 5,
     "recommendedAge": 7,
-    "reviewsCount": 1,
+    "reviewsCount": 2,
     "reviews": [
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "Kendael",
+            "minAge": 7,
+            "createdAt": "2026-10-28T23:48:50+01:00"
+        },
         {
             "stars": 5,
             "comment": "Âge recommandé de plutôt 6ans.\r\nTrès très bon podcast, la dynamique en Artis et le petit Gousse d'ail est excellente.\r\nMon fils adore réécouter tous les épisodes (même si ça continue de sortir au fil de l'eau a 1 épisode semaine)",
