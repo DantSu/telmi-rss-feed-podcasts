@@ -7,8 +7,16 @@
     "rssFeed": "https://feeds.audiomeans.fr/feed/444a0b99-1ad4-446c-9f5a-19104009f688.xml",
     "image": "https://static.audiomeans.fr/img/podcast/34b11e0f-0692-4a24-8e8b-d5eaa1c7a758.jpg",
     "ads": true,
-    "averageRating": null,
-    "recommendedAge": null,
-    "reviewsCount": 0,
-    "reviews": []
+    "averageRating": 5,
+    "recommendedAge": 3,
+    "reviewsCount": 1,
+    "reviews": [
+        {
+            "stars": 5,
+            "comment": null,
+            "authorName": "TheNils",
+            "minAge": 3,
+            "createdAt": "2026-11-07T18:54:29+01:00"
+        }
+    ]
 }
